@@ -1,7 +1,7 @@
 # Coco Şol — Café Website (Konzept)
 
 
-** Demo:** https://blucaryo.github.io/coco-senol/
+** Demo:** https://blucaryo.github.io/cocosenl/
 
 ## Highlights
 - 🎨 **Farbig & editorial** — Creme, Vermillion, Senf, Tannengrün; große Serifen-Typografie
