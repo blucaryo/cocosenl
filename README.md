@@ -1,7 +1,10 @@
-# Coco Şol — Café Website (Konzept)
+# Coco Şenol — Café Website (Konzept / Mockup)
 
+Ein einseitiges Website-Konzept für **Coco Şenol**, ein Kunst- und Selbstbedienungs-Café
+am Richardplatz-nahen **Kranoldplatz 7, Berlin-Neukölln**. Editoriale Haltung im Stil von
+Grill Royal – aber mit warmer, farbiger Palette und lebendigen Animationen.
 
-** Demo:** https://blucaryo.github.io/cocosenl/
+🔗 **Live-Demo:** https://[dein-github-name].github.io/coco-senol/
 
 ## Highlights
 - 🎨 **Farbig & editorial** — Creme, Vermillion, Senf, Tannengrün; große Serifen-Typografie
@@ -31,4 +34,4 @@ HTML5 · CSS3 (Custom Properties, Grid/Flexbox) · Vanilla JavaScript (Intersect
 (Settings → Pages → Branch `main`, Ordner `/root`).
 
 ---
-Konzept & Umsetzung: **BLUCARYO** — Webentwicklung.
+Konzept & Umsetzung: **[Dein Name]** — Webentwicklung.
