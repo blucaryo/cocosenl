@@ -4,7 +4,7 @@ Ein einseitiges Website-Konzept für **Coco Şenol**, ein Kunst- und Selbstbedie
 am Richardplatz-nahen **Kranoldplatz 7, Berlin-Neukölln**. Editoriale Haltung im Stil von
 Grill Royal – aber mit warmer, farbiger Palette und lebendigen Animationen.
 
-🔗 **Live-Demo:** https://[dein-github-name].github.io/coco-senol/
+🔗 **Live-Demo:** https://blucaryo.github.io/coco-senol/
 
 ## Highlights
 - 🎨 **Farbig & editorial** — Creme, Vermillion, Senf, Tannengrün; große Serifen-Typografie
